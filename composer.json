@@ -1,0 +1,25 @@
+{
+    "name": "hugomatheuss/laravel-dto",
+    "description": "DTO helper for Laravel projects",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hugomatheuss\\LaravelDto\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "HugoMatheus\\LaravelDto\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hugo Matheus",
+            "email": "hugo_matheuss@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "^12.3@dev"
+    }
+}
