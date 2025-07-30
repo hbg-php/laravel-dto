@@ -20,6 +20,9 @@
     ],
     "minimum-stability": "dev",
     "require-dev": {
-        "phpunit/phpunit": "^12.3@dev"
+        "phpunit/phpunit": "^12.3@dev",
+        "rector/rector": "dev-main",
+        "laravel/pint": "dev-main",
+        "phpstan/phpstan": "2.1.x-dev"
     }
 }
